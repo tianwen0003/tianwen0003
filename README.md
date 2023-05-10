@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Tian Wen
-- 📫 You can contact ✉️tianwen@xjtu.edu.cn when you have any questions, suggestions, comments, etc.
+- 📫 You can contact ✉️tianwen@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.
 
 
 <!--
