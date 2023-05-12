@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Tian Wen
-- 📫 You can contact ✉️tianwen@stu.xjtu.edu.cn when you have any questions, suggestions, comments, etc.
+- 👀 I'am intrested in gene transcriptional regulation 
+- 📫 You can contact ✉️wentian0003@163.com when you have any questions, suggestions, comments, etc.
 
 
 <!--
